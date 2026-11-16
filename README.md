@@ -99,7 +99,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><b>VS Code</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" /><br><b>Android</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" /><br><b>Jupyter</b></td>
-<td align="center"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" /><br><b>Canva</b></td>
+<td align="center"><img src="https://www.google.com/s2/favicons?domain=canva.com&sz=128" width="48" /><br><b>Canva</b></td>
 <td align="center"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48" /><br><b>Jira</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br><b>Figma</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br><b>Postman</b></td>
