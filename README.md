@@ -78,7 +78,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br><b>TensorFlow</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br><b>PyTorch</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48" /><br><b>OpenCV</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kaggle" width="48" /><br><b>Kaggle</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" /><br><b>Kaggle</b></td>
 </tr></table>
 
 **Also working with:** NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • Keras • Hugging Face • Image Classification • Data Preprocessing • Model Training • Computer Vision
@@ -98,12 +98,12 @@
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><b>VS Code</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" /><br><b>Android</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="48" /><br><b>Jupyter</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=canva" width="48" /><br><b>Canva</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jira" width="48" /><br><b>Jira</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" /><br><b>Jupyter</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" /><br><b>Canva</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/jira/0052CC" width="48" /><br><b>Jira</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br><b>Figma</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br><b>Postman</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kaggle" width="48" /><br><b>Kaggle</b></td>
+<td align="center"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" /><br><b>Kaggle</b></td>
 </tr></table>
 
 ## 🚀 Featured Projects
